@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @khomedich
+- 👀 I’m interested in Python coding
+- 🌱 I’m currently learning mobile development
+- 💞️ I’m looking to collaborate on real participant in social projects
+- 📫 How to reach me t.me/khomedich
